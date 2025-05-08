@@ -6,6 +6,10 @@ Keyi Huang modified the code slightly in 2024 to make it better accommodate the 
 # The research paper that built this life-saver package
 Daniel S. C. Damineli, Maria Teresa Portes, José A. Feijó (2017) Oscillatory signatures underlie growth regimes in Arabidopsis pollen tubes: computational methods to estimate tip location, periodicity, and synchronization in growing cells. Journal of Experimental Botany.
 doi:10.1093/jxb/erx032
+
+#Tutorial
+The tutorial pdf in this repository is written by Damineli, the original package developer.
+
 # All modifications made to the original package
 These are modified to make consistent folder paths within the code & accommodate the time-lapse imaging settings
 1. the folder paths
